@@ -12,7 +12,7 @@ Also we are generating a report and for reporting we are using extent report.
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd SDET_Assignment
+   cd SDET-Assignment
 2. Verify the folder and it contents. If POM file adn src folder is present then run
    ```bash
    mvn -U clean test
